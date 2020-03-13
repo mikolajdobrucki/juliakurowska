@@ -1,8 +1,8 @@
 {
-  "name": "EleventyOne",
-  "version": "3.0.0",
-  "description": "A project bootstrap for Eleventy sites. With pipelines for PostCSS, JavaScript, and serverless functions",
-  "author": "Phil Hawksworth",
+  "name": "juliakurowska",
+  "version": "0.0.1",
+  "description": "Julia Kurowska website",
+  "author": "Mikolaj Dobrucki",
   "license": "MIT",
   "scripts": {
     "start": "npm run dev",
